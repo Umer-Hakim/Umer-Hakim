@@ -1,4 +1,4 @@
-![Banner](Mybanner.png)
+![Banner](Banner.png)
 
 <h1 align="center">Hi 👋, I'm Umer Hakim</h1>
 <h3 align="center">A passionate Python Developer at Codelounge</h3>
@@ -14,6 +14,8 @@
 - 📫 How to reach me, My Email 👉 **umarhakimkk6090@gmail.com**
 
 <!-- - 📄 Know about my experiences ☝😍 here is my website 👉 **[Umer Hakim](https://umerhakim.dev/)** -->
+
+
 
 - ⚡ Fun fact : **I debug my own problems faster than my friends' problems 😊**
 
@@ -42,3 +44,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umerhakim&show_icons=true&locale=en" alt="umerhakim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umerhakim&" alt="umerhakim" /></p>
+
+
