@@ -1,7 +1,5 @@
 
 ![Banner](Banner.png)
-![Banner](Mybannerr.png)
->>>>>>> 1059f893c6c0b1e4707cdd643face24134f02a18
 
 <h1 align="center">Hi 👋, I'm Umer Hakim</h1>
 <h3 align="center">A passionate Python Developer at Codelounge</h3>
