@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact : **I debug my own problems faster than my friends' problems 😊**
 - ⚡ Fun fact : **I debug my friend's problems faster than my own problems 😊**
->>>>>>> 1059f893c6c0b1e4707cdd643face24134f02a18
+
 
 ## <p align="center">Umer Hakim</p>
 
