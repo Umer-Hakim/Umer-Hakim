@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/umerhakim" target="blank"><img src="https://img.shields.io/twitter/follow/umerhakim?logo=twitter&style=for-the-badge" alt="umerhakim" /></a> </p>
 
-- 💬 Ask me about **Python || Django || Code || CyberSecurity || SystemScripting || WebScraping**
+- 💬 Ask me about **|| Python || Django || Code || CyberSecurity || SystemScripting || WebScraping || **
 
 - 📫 How to reach me, My Email 👉 **umarhakimkk6090@gmail.com**
 
