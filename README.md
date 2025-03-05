@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ![Banner](Banner.png)
+=======
+![Banner](Mybannerr.png)
+>>>>>>> 1059f893c6c0b1e4707cdd643face24134f02a18
 
 <h1 align="center">Hi 👋, I'm Umer Hakim</h1>
 <h3 align="center">A passionate Python Developer at Codelounge</h3>
@@ -9,15 +13,19 @@
 
 <p align="left"> <a href="https://twitter.com/umerhakim" target="blank"><img src="https://img.shields.io/twitter/follow/umerhakim?logo=twitter&style=for-the-badge" alt="umerhakim" /></a> </p>
 
-- 💬 Ask me about **Python || Django || Flask || Data Science || Machine Learning || Automation**
+- 💬 Ask me about **Python || Django || Code || CyberSecurity || SystemScripting || WebScraping**
 
 - 📫 How to reach me, My Email 👉 **umarhakimkk6090@gmail.com**
 
 <!-- - 📄 Know about my experiences ☝😍 here is my website 👉 **[Umer Hakim](https://umerhakim.dev/)** -->
 
+<<<<<<< HEAD
 
 
 - ⚡ Fun fact : **I debug my own problems faster than my friends' problems 😊**
+=======
+- ⚡ Fun fact : **I debug my friend's problems faster than my own problems 😊**
+>>>>>>> 1059f893c6c0b1e4707cdd643face24134f02a18
 
 ## <p align="center">Umer Hakim</p>
 
@@ -25,7 +33,7 @@
 <p align="left">
 <a href="https://twitter.com/umerhakim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umerhakim" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/umerkhan99/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umerhakim" height="30" width="40" /></a>
-<a href="https://instagram.com/umerhakim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umerhakim" height="30" width="40" /></a>
+<a href="https://instagram.com/umerhakim" target="_blank"><img align="center" src="https://www.instagram.com/mr.umerrr_?igsh=MWQycWs0Z3R4aDc4dg%3D%3D&utm_source=qr" alt="umerhakim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
