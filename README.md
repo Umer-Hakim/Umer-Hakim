@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 ![Banner](Banner.png)
-=======
 ![Banner](Mybannerr.png)
 >>>>>>> 1059f893c6c0b1e4707cdd643face24134f02a18
 
@@ -19,11 +18,9 @@
 
 <!-- - 📄 Know about my experiences ☝😍 here is my website 👉 **[Umer Hakim](https://umerhakim.dev/)** -->
 
-<<<<<<< HEAD
 
 
 - ⚡ Fun fact : **I debug my own problems faster than my friends' problems 😊**
-=======
 - ⚡ Fun fact : **I debug my friend's problems faster than my own problems 😊**
 >>>>>>> 1059f893c6c0b1e4707cdd643face24134f02a18
 
