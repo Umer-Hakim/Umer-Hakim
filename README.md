@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/umerhakim" target="blank"><img src="https://img.shields.io/twitter/follow/umerhakim?logo=twitter&style=for-the-badge" alt="umerhakim" /></a> </p>
 
-- 💬 Ask me about **Python || Django || Flask || Data Science || Machine Learning || Automation**
+- 💬 Ask me about **Python || Django || Code || CyberSecurity || SystemScripting || WebScraping**
 
 - 📫 How to reach me, My Email 👉 **umarhakimkk6090@gmail.com**
 
 <!-- - 📄 Know about my experiences ☝😍 here is my website 👉 **[Umer Hakim](https://umerhakim.dev/)** -->
 
-- ⚡ Fun fact : **I debug my own problems faster than my friends' problems 😊**
+- ⚡ Fun fact : **I debug my friend's problems faster than my own problems 😊**
 
 ## <p align="center">Umer Hakim</p>
 
