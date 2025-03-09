@@ -18,7 +18,7 @@
 
 
 
-- ⚡ Fun fact : **I debug my own problems faster than my friends' problems 😊**
+- ⚡ Fun fact : **I debug my friend's problems faster than my own problems 😊**
 
 
 ## <p align="center">Umer Hakim</p>
